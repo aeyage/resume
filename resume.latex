@@ -155,7 +155,7 @@
     \resumeSubItem{N-gram and PoS Tagging of DBS Banking Performance}
       {A natural language processing model aims to study the sentiment and text analysis of DBS Bank performance feedback by performing n-gram and part-of-speech tagging on a total of 107 DBS consumer reviews scrapped from external review sites.}
     
-    \resumeSubItem{Malay Word Prediction Using GloVe}
+    \resumeSubItem{Malay Word Prediction Using Word2vec Embedding}
       {A natural language processing sentiment prediction model for text in Malay Language. It is trained with a deep learning neural network to construct an end-to-end Malay word prediction model.}
     
     \resumeSubItem{3D Sierpiński Gasket Ident Programme}
@@ -180,7 +180,7 @@
         \textbf{Programming Languages}{: Python, R, C++, Java, SQL, Javascript}
    }
    \item{
-        \textbf{Technologies}{: Tensorflow/ Keras, Scikit-Learn, GloVe/ Word2vec, WebGL, LaTeX, AWS EC2, AWS S3, MongoDB, React, Vue, GCE, Nginx}
+        \textbf{Technologies}{: Natural Language Toolkit, Tensorflow/ Keras, Scikit-Learn, Word2vec, WebGL, LaTeX, Three.js, Tailwind CSS, Boostrap, Livewire, Laravel, MySQL, React}
    }
    \item{
         \textbf{Languages}{: English, Malay, Japanese, Spanish}
